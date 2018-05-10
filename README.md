@@ -1,4 +1,4 @@
 # waaca-bathroom-scale
-Waaca is a school project for my Smart Systems Engineering course, in which we created the software and hardware for a bathroom scale. The course was closely tied to a virtual instrumentation course in which TI's LabView was used.
+Waaca is a Smart Systems Engineering course project in which LabVIEW programming and electronic schematic design were central. We created the software and hardware for a bathroom scale from scratch. The course was closely tied to a Virtual Instrumentation course in which we utilized Texas Instrument's LabVIEW training materials.
 
 See the documentation for more information.
